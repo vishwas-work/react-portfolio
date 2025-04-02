@@ -1,6 +1,10 @@
 import Skills from "../components/skillData";
 import { Experienced } from "../components";
 const MainPage = () => {
+  useEffect(() => {
+    document.title = "portfolio";
+  }, []);
+
   return (
     <>
       <div className="d-block d-xl-none">
