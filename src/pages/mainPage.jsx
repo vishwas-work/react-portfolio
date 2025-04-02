@@ -1,5 +1,6 @@
 import Skills from "../components/skillData";
 import { Experienced } from "../components";
+import { useEffect } from "react";
 const MainPage = () => {
   useEffect(() => {
     document.title = "portfolio";
