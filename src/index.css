@@ -1,0 +1,36 @@
+.log1 {
+  max-width: 160px !important;
+}
+.exp {
+  font-size: 48.14px;
+  font-weight: 700;
+  line-height: 130%;
+}
+.text-dark-red {
+  color: brown;
+}
+.headig {
+  font-size: 32px;
+  color: #388e3c !important;
+}
+.tw {
+  color: #ff014f !important;
+}
+@media (min-width: 1400px) {
+  .img-box.v2 {
+    height: 150px !important;
+  }
+}
+@media (min-width: 1200px) {
+  .img-box.v2 {
+    height: 150px !important;
+  }
+}
+.backGrodColor {
+  background-color: aliceblue;
+}
+.ViewProject {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+}

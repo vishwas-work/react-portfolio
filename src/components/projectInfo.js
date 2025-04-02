@@ -1,0 +1,125 @@
+const projects = [
+  {
+    id: "bcstep",
+    title: "BCSTEP - Construction Industry ERP",
+    description:
+      "BCSTEP is a comprehensive B2B ERP solution tailored for the construction industry. It connects all project teams and manages information and data flow, ensuring precise data sharing and optimized, high-quality output. The platform allows for remote monitoring of work, tracks reported anomalies until resolution and review, and notifies higher management of missed tests and delayed deliveries. By integrating all project teams and automating information flow, BCSTEP enhances project efficiency and quality control. ",
+    contributions: [
+      "Developed and implemented front-end and back-end solutions.",
+      "Optimized database queries, improving performance by 40%.",
+      "Integrated real-time data tracking for reporting and decision-making.",
+      "Developed automated alert systems for scheduling and quality control.",
+      "Integrated APIs for Android APK synchronization.",
+    ],
+    techStack: [
+      "PHP",
+      "jQuery",
+      "javaScript",
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "MySQL",
+      "CodeIgniter",
+      "Git",
+      "OOP",
+      "API",
+      "Database Design",
+    ],
+    link: "https://www.bcstep.com/index.php",
+  },
+  {
+    id: "amgold",
+    title: "AMGOLD Bullion Platform",
+    description:
+      "AMGOLD Bullion Platform is a secure and user-friendly online system designed for the efficient purchase and management of gold transactions. It caters to both B2B and B2C markets, offering a scalable solution capable of handling over 1,000 transactions daily. The platform features an intuitive interface that simplifies the process of buying and selling gold, ensuring a seamless experience for users. To guarantee the security of all transactions, AMGOLD integrates robust payment systems with SSL encryption, providing users with confidence in the safety of their financial activities.",
+    contributions: [
+      "Developed a user-friendly interface for managing B2B and B2C transactions.",
+      "Designed a scalable platform handling 1000+ transactions daily.",
+      "Integrated payment systems with SSL encryption for security.",
+    ],
+    techStack: [
+      "PHP",
+      "jQuery",
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "MySQL",
+      "CodeIgniter",
+      "Git",
+      "OOP",
+      "API",
+      "Database Design",
+    ],
+    link: "https://amgold.in/",
+  },
+  {
+    id: "wonder-learning",
+    title: "Wonder Learning - Education ERP",
+    description:
+      "Wonder Learning is an educational platform that provides a complete solution for schools, including a student academic kit, curriculum planning, teacher training, lesson plans, and academic support. It also offers a school management system with a parent app to streamline communication and administration. The goal is to enhance learning experiences and foster student growth.",
+    contributions: [
+      "Optimized attendance tracking and timetable generation features.",
+      "Streamlined student and staff management for operational efficiency.",
+      "Automated attendance tracking, saving 2+ hours of admin work weekly.",
+      "Improved data accuracy by 95% through robust validation systems.",
+    ],
+    techStack: [
+      "PHP",
+      "jQuery",
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "MySQL",
+      "CodeIgniter",
+      "Git",
+      "OOP",
+    ],
+    link: "https://wonderlearning.in/index.php",
+  },
+  {
+    id: "taskify",
+    title: "Taskify - Task Management App",
+    description:
+      "A full-stack task management application with secure authentication, state management, and REST API integration.",
+    contributions: [
+      "Developed a secure authentication system with protected routes.",
+      "Implemented Redux Toolkit for efficient state management.",
+      "Integrated REST API for seamless frontend-backend communication.",
+      "Enhanced UX with toast notifications and responsive design.",
+    ],
+    techStack: [
+      "React",
+      "Redux Toolkit",
+      "Node.js",
+      "Express.js",
+      "Mysql",
+      "Tailwind CSS",
+      "Netlify",
+    ],
+    link: "https://melodious-boba-b46260.netlify.app/login",
+  },
+  {
+    id: "portfolio",
+    title: "Portfolio Website - Personal Portfolio",
+    description:
+      "A professional portfolio website showcasing skills, resume, and projects using CodeIgniter 4.",
+    contributions: [
+      "Designed and developed a responsive portfolio website with multiple pages.",
+      "Implemented resume, projects, and contact sections for easy navigation.",
+      "Optimized website performance and deployed on a free hosting platform.",
+      "Built using CodeIgniter 4 MVC architecture for scalability.",
+    ],
+    techStack: [
+      "PHP",
+      "CodeIgniter 4",
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "MySQL",
+      "jQuery",
+    ],
+    link: "https://portfolio-vish.rf.gd/",
+  },
+];
+
+export default projects;
