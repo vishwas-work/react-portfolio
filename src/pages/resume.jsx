@@ -600,7 +600,7 @@ const Resume = () => {
                     <LinkAchor>
                       <b>Live Demo:</b>{" "}
                       <a
-                        href="https://tinyurl.com/createTask12"
+                        href="https://tkcom.netlify.app/login"
                         target="_blank"
                         className="anchotLik"
                       >

@@ -96,7 +96,7 @@ const projects = [
       "Tailwind CSS",
       "Netlify",
     ],
-    link: "https://melodious-boba-b46260.netlify.app/login",
+    link: "https://tkcom.netlify.app/login",
   },
   {
     id: "portfolio",
