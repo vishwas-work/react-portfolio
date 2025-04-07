@@ -3,6 +3,18 @@ import ProgressChart from "./ProgressChart";
 const skillData = {
   frontend: [
     {
+      skillName: "CodeIgniter 4",
+      experience: "2+",
+      percentage: 85,
+      animationDelay: "0.9s",
+    },
+    {
+      skillName: "Laravel",
+      experience: "2+",
+      percentage: 85,
+      animationDelay: "0.9s",
+    },
+    {
       skillName: "React",
       experience: "1",
       percentage: 80,
@@ -13,6 +25,38 @@ const skillData = {
       experience: "1",
       percentage: 85,
       animationDelay: "1.3s",
+    },
+
+    {
+      skillName: "jQuery",
+      experience: "3.2+",
+      percentage: 90,
+      animationDelay: "1.1s",
+    },
+    {
+      skillName: "Bootstrap",
+      experience: "3.2+",
+      percentage: 90,
+      animationDelay: "1.3s",
+    },
+    {
+      skillName: "JavaScript",
+      experience: "3.2+",
+      percentage: 85,
+      animationDelay: "0.9s",
+    },
+
+    {
+      skillName: "HTML",
+      experience: "3.2+",
+      percentage: 100,
+      animationDelay: "0.5s",
+    },
+    {
+      skillName: "CSS",
+      experience: "3.2+",
+      percentage: 100,
+      animationDelay: "0.7s",
     },
     {
       skillName: "Redux",
@@ -33,52 +77,10 @@ const skillData = {
       animationDelay: "1.7s",
     },
     {
-      skillName: "CodeIgniter 4",
-      experience: "2+",
-      percentage: 85,
-      animationDelay: "0.9s",
-    },
-    {
-      skillName: "jQuery",
-      experience: "3.2+",
-      percentage: 90,
-      animationDelay: "1.1s",
-    },
-    {
-      skillName: "Bootstrap",
-      experience: "3.2+",
-      percentage: 90,
-      animationDelay: "1.3s",
-    },
-    {
-      skillName: "JavaScript",
-      experience: "3.2+",
-      percentage: 85,
-      animationDelay: "0.9s",
-    },
-    {
       skillName: "Tailwind CSS",
       experience: "1",
       percentage: 60,
       animationDelay: "1.1s",
-    },
-    {
-      skillName: "Material UI",
-      experience: "1",
-      percentage: 50,
-      animationDelay: "1.9s",
-    },
-    {
-      skillName: "HTML",
-      experience: "3.2+",
-      percentage: 100,
-      animationDelay: "0.5s",
-    },
-    {
-      skillName: "CSS",
-      experience: "3.2+",
-      percentage: 100,
-      animationDelay: "0.7s",
     },
   ],
 
@@ -134,12 +136,6 @@ const skillData = {
   ],
 
   other: [
-    {
-      skillName: "Docker",
-      experience: "1+",
-      percentage: 30,
-      animationDelay: "1.3s",
-    },
     {
       skillName: "Git",
       experience: "3+",

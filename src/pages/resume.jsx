@@ -129,9 +129,9 @@ const Resume = () => {
                       JavaScript (ES6+), HTML, CSS
                     </li>
                     <li>
-                      <strong>Frameworks & Tools:</strong> CodeIgniter 4, React,
-                      Node.js, Express.js, Redux Toolkit, jQuery, Bootstrap,
-                      Tailwind CSS
+                      <strong>Frameworks & Tools:</strong> Laravel,CodeIgniter
+                      4, React, Node.js, Express.js, Redux Toolkit, jQuery,
+                      Bootstrap, Tailwind CSS
                     </li>
                     <li>
                       <strong>Version Control:</strong> Git, GitHub
@@ -220,7 +220,8 @@ const Resume = () => {
                     dynamic, user-friendly web applications. Highly skilled in{" "}
                     <strong>PHP</strong>, <strong>JavaScript</strong>,{" "}
                     <strong>React</strong>, <strong>Node.js</strong>,{" "}
-                    <strong>jQuery</strong>, and <strong>MySQL</strong>, with a
+                    <strong>jQuery</strong>, <strong>CI4</strong>,{" "}
+                    <strong>Laravel</strong>and <strong>MySQL</strong>, with a
                     strong focus on developing scalable architectures and
                     integrating robust APIs.
                   </p>
